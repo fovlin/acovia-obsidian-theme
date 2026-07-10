@@ -7,13 +7,13 @@ body {
   --accent-s: 100%;
   --accent-l: 30%;
   --background-primary: #181715;
-  --background-secondary: #282725;
+  --background-secondary: #1f1e1c;
   --background-secondary-alt: #383735;
   --background-modifier-form-field: #1f1f1f;
   --code-background: #252829;
 
-  --text-normal: #efe3d0;
-  --text-muted: #efe3d0;
+  --text-normal: #efeae0;
+  --text-muted: #efeae0;
   --text-accent: #ffaf00;
 
   --code-color: #dfdfdf;
