@@ -6,14 +6,14 @@ body {
   --accent-h: 41;
   --accent-s: 100%;
   --accent-l: 30%;
-  --background-primary: #181510;
-  --background-secondary: #282520;
-  --background-secondary-alt: #383530;
+  --background-primary: #181715;
+  --background-secondary: #282725;
+  --background-secondary-alt: #383735;
   --background-modifier-form-field: #1f1f1f;
-  --code-background: #2f2d2a;
+  --code-background: #2a2f33;
 
   --text-normal: #efe3d0;
-  --text-muted: #bfb3a0;
+  --text-muted: #efe3d0;
   --text-accent: #ffaf00;
 
   --code-color: #dfdfdf;
@@ -23,8 +23,8 @@ body {
   --accent-h: 41;
   --accent-s: 100%;
   --accent-l: 30%;
-  --background-primary: #e8e5e0;
-  --background-secondary: #d8d5d0;
+  --background-primary: #f8f5f0;
+  --background-secondary: #e8e5e0;
   --background-secondary-alt: #f8f5f0;
   --background-modifier-form-field: #d8d5d0;
   --code-background: #f8f5f0;
