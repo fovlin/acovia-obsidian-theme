@@ -2,6 +2,10 @@ body {
   letter-spacing: 0.3px;
 }
 
+:root {
+	font-family:'system-ui';
+}
+
 .theme-dark {
   --accent-h: 41;
   --accent-s: 100%;
@@ -42,6 +46,7 @@ pre code,         /* 阅读状态下的代码块 */
 .cm-hmd-codeblock /* 编辑状态下的代码块 */
 {
   color: var(--code-color) !important;
+  font-family: monospace;
 }
 
 .cm-inline-code,  /* 编辑状态下的行内代码块 */
@@ -49,6 +54,7 @@ p code            /* 阅读状态下行内代码块 */
 {
   background-color: #ffaf001f !important;
   color: var(--text-accent) !important;
+  font-family: monospace;
 }
 
 p {
