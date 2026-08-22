@@ -56,7 +56,3 @@ p code            /* 阅读状态下行内代码块 */
   color: var(--text-accent) !important;
   font-family: monospace;
 }
-
-p {
-  padding-bottom: 12px !important;
-}
